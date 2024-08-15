@@ -1,1 +1,1 @@
-Our first Embedded System II lab assignment.
+The repository for our group's EEE3096S practical work.
